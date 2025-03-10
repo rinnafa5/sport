@@ -1,1 +1,48 @@
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3517
+
+#EXTINF:-1 tvg-id="Channel 5.sg" tvg-logo="https://i.ibb.co.com/pj0SBWf/m5.png",Channel 5 
+#EXTGRP:ASTRO GO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea574677cd96492497e71a9021b2c3ed:e0b7845bb59fde72bba99aec30518cb8
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 tvg-id="Channel 5.sg" tvg-logo="https://i.ibb.co.com/pj0SBWf/m5.png",Channel 5 
+#EXTGRP:ASTRO GO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
+https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+
+#EXTINF:-1 tvg-id="Channel 8.sg" tvg-logo="https://i.ibb.co.com/VQ1vCzC/m8.png",Channel 8 
+#EXTGRP:ASTRO GO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=970d551e974d4a82b45213dc07541131:7586b55fcb4807a5b74764e5564d8095
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 tvg-id="Channel U.sg" tvg-logo="https://i.ibb.co.com/zZL6Y7V/mchannelu.png",Channel U 
+#EXTGRP:ASTRO GO  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=468bb927cb05495bab76bdb7a8666067:e8fdbc1b6be2a10301a5129d7b8c2ec4
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 tvg-id="Suria.sg"  tvg-logo="https://i.ibb.co.com/KLfmfq7/msuria.png",Channel Suria
+#EXTGRP:ASTRO GO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
+https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+
+#EXTINF:-1 tvg-id="Vasantham.sg" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Channel Vasantham 
+#EXTGRP:ASTRO GO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 tvg-id="LIVE 5.sg" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",M LIVE 5 
+#EXTGRP:ASTRO GO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xSQQ81r/mlive6.png",M LIVE 6 
+#EXTGRP:ASTRO GO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
