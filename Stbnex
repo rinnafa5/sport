@@ -115,4 +115,30 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",SPOTV ASIA
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8?c
 
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT", Cbs gozalo 
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",NBC Sport
+https://jmp2.uk/sam-USBD420002446.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",DFB Play
+https://jmp2.uk/sam-GB26000118T.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",champions league
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Bob 1
+https://jmp2.uk/sam-ESBA33000262Z.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Bob 2
+https://jmp2.uk/sam-ITAJ380000343.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Bob 3
+https://jmp2.uk/sam-FRAJ3800010QO.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT", Bob 4
+https://jmp2.uk/sam-ATAJ700005T3.m3u8
+
+
+
 
