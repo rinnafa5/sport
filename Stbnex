@@ -21,8 +21,20 @@ https://stream.sainaertebat.com/hls2/ssc1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", TW SPORTS 1
 https://stream.sainaertebat.com/hls2/stream01.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", TW SPORTS 2
+https://stream.sainaertebat.com/hls2/stream02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", TW SPORTS 3
+https://stream.sainaertebat.com/hls2/stream03.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", BEIN SPORTS 1
 https://stream.sainaertebat.com/hls2/bein1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", BEIN SPORTS 2
+https://stream.sainaertebat.com/hls2/bein2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", BEIN SPORTS 3
+https://stream.sainaertebat.com/hls2/bein3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", SOLH SPORT
 https://stream.sainaertebat.com/hls2/solhtv.m3u8
