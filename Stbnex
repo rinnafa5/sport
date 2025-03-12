@@ -112,17 +112,11 @@ https://jmp2.uk/sam-USBD420002446.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",DFB Play
 https://jmp2.uk/sam-GB26000118T.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",champions league
-https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Turkmen 1
+https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT", Scooore Sd
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660e97bce8fba8000853d43flivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc861668-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=55465346-19d5-4828-9cf1-a9dc5950fa5e&profilesFromStream=true
-
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT", Scooore 
-https://jmp2.uk/sam-ATBD26000124P.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Bob 1
-https://jmp2.uk/sam-ESBA33000262Z.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Turkmen 2
+https://alpha.tv.online.tm/hls/ch004.m3u8
 
 
 
