@@ -127,6 +127,6 @@ https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_servi
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",TV9 MY
 https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10b3b44c116-9c6c745e-9c36-4638-8d8c-b061c3cd0d71&category=all
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT", TV 1 MY
-https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT", TV 8 MY
+https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 
