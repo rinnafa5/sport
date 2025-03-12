@@ -132,3 +132,29 @@ https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",SUKAN RTM
 https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Mrtv sports
+https://lb-as.cdn-perfprod.com/live/mrtvschannel5
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Dvb
+https://live-stream.dvb.no/hls/stream_src/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",GTN
+https://vse2-as-all11.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",TVRI SPORTS
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",TELERO
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",MNET
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",HT SPORT
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+
+
+
+
+
