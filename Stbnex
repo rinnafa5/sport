@@ -51,6 +51,21 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Campiones
 https://wo.cma.footballii.ir/hls2/broken1.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Bein1
+https://wo.cma.footballii.ir/hls2/b1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Bein2
+https://wo.cma.footballii.ir/hls2/b2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Bein3
+https://wo.cma.footballii.ir/hls2/b3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Ssc1
+https://wo.cma.footballii.ir/hls2/ssc1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Tv3
+https://wo.cma.footballii.ir/hls2/tv3.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT",4 Sports
 https://hls.pokertvfa.live/hls/stream.m3u8
