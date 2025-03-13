@@ -42,6 +42,36 @@ https://stream.sainaertebat.com/hls2/bein3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", SOLH SPORT
 https://stream.sainaertebat.com/hls2/solhtv.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",PERSIANA
+https://cdn.footballii.ir/hls2/persiana.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",IRIB TV 3
+https://cdn.footballii.ir/hls2/tv3test.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",VARZESH
+https://cdn.footballii.ir/hls2/varzeshtest.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",BEIN 1
+https://cdn.footballii.ir/hls2/bein1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",BEIN 2
+https://cdn.footballii.ir/hls2/bein2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT", SOLH SPORTS
+https://cdn.footballii.ir/hls2/solhtv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT", SSC 1
+https://cdn.footballii.ir/hls2/ssc1s.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",TW 1
+https://cdn.footballii.ir/hls2/stream01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",TW 2
+https://cdn.footballii.ir/hls2/stream02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",TW 3
+https://cdn.footballii.ir/hls2/stream03.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VVk2VwR/iribtv3.png" group-title="TELE SPORT", IRIB TV3 Auto
 https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 
