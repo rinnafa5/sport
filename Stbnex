@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",TIMNASDAY
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/186176.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", PERSIANA SPORTS
 https://spstr.abntv.live/hls/psstream.m3u8
 
