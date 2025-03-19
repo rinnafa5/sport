@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",TIMNASDAY
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/186176.ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", PERSIANA SPORTS
 https://spstr.abntv.live/hls/psstream.m3u8
 
@@ -169,6 +166,39 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",SPOTV ASIA
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8?c
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",SPORTDIGITAL FUSSBALL
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/186176.ts
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",TV ASAHI
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",TV NIPPON
+http://vthanh.utako.moe/Nippon_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",RTHK 31
+https://cdn5.163189.xyz/live/rthk31/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",RTHK 32
+https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",TDM macau
+https://live5.tdm.com.mo/ch3/ch3.live/chunklist_w183583391.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Sport klub 1
+https://ddy6new.iosplayer.ru/ddy6/premium101/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Sport klub 2
+https://ddy6new.iosplayer.ru/ddy6/premium102/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Bein1
+https://dokko1new.koskoros.ru/dokko1/premium91/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Bein2
+https://dokko1new.koskoros.ru/dokko1/premium92/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Bein3
+https://dokko1new.koskoros.ru/dokko1/premium93/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT", Cbs gozalo 
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
