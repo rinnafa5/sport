@@ -254,10 +254,10 @@ https://news.bajimath.com/Candy_Live/vstream.php?id=abc6677968ef&e=.m3u8
 #EXTINF:-1 tvg-id="fd6de8bd1666" tvg-name="SONY SPORTS TEN 5 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" tvg-chno="fd6de8bd1666" group-title="TELE SPORT",SONY SPORTS TEN 5 HD
 https://news.bajimath.com/Candy_Live/vstream.php?id=fd6de8bd1666&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="TELE SPORT",T SPORT 1
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",T SPORT 1
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png"group-title="TELE SPORT",T SPORT 2
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",T SPORT 2
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",YEStv 
