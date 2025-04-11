@@ -245,6 +245,15 @@ https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-id="258468998307" tvg-name="Euro Sport HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" tvg-chno="258468998307" group-title="TELE SPORT",Euro Sport HD
 https://news.bajimath.com/Candy_Live/vstream.php?id=258468998307&e=.m3u8
 
+#EXTINF:-1 tvg-id="43dcec1011e7" tvg-name="SONY SPORTS TEN 1 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" tvg-chno="43dcec1011e7" group-title="TELE SPORT",SONY SPORTS TEN 1 HD
+https://news.bajimath.com/Candy_Live/vstream.php?id=43dcec1011e7&e=.m3u8
+
+#EXTINF:-1 tvg-id="abc6677968ef" tvg-name="SONY SPORTS TEN 2 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" tvg-chno="abc6677968ef" group-title="TELE SPORT",SONY SPORTS TEN 2 HD
+https://news.bajimath.com/Candy_Live/vstream.php?id=abc6677968ef&e=.m3u8
+
+#EXTINF:-1 tvg-id="fd6de8bd1666" tvg-name="SONY SPORTS TEN 5 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" tvg-chno="fd6de8bd1666" group-title="TELE SPORT",SONY SPORTS TEN 5 HD
+https://news.bajimath.com/Candy_Live/vstream.php?id=fd6de8bd1666&e=.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",YEStv 
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
 
