@@ -27,6 +27,34 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",Tvone
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/5.ts
 
+#EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/2560px-RCTI_logo_2015.svg.png provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", RCTI HD
+https://smart.pendy.dpdns.org/Smart.php?id=Rcti
+
+#EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/SCTV_Logo.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", SCTV 
+https://smart.pendy.dpdns.org/Smart.php?id=SCTV
+
+#EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Indosiar_2015.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Indosiar
+https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
+
+#EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/2880px-Antv_logo.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", ANTV 
+https://smart.pendy.dpdns.org/Smart.php?id=Antv
+
+#EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Trans7
+https://smart.pendy.dpdns.org/Smart.php?id=Trans7_eko
+
+#EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", TransTV
+https://smart.pendy.dpdns.org/Smart.php?id=Transtv
+
+#EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Kompass
+https://smart.pendy.dpdns.org/Smart.php?id=Kompass
+
+#EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Metro TV
+https://smart.pendy.dpdns.org/Smart.php?id=metrotv_eko
+
+#EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvOne_2023.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", TVOne
+https://smart.pendy.dpdns.org/Smart.php?id=Tvone
+
+
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",COURT SPORTS
 https://sports361.github.io/hls/csn.m3u8
 
