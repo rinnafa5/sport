@@ -9,18 +9,6 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",INDOSIAR
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",5
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",6
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2696.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",7
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2697.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",8
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2698.ts
-
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",SCTV
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
 
@@ -41,15 +29,6 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/5.ts
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",COURT SPORTS
 https://sports361.github.io/hls/csn.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT", INDOSIAR
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
-
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT", RCTI
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
-
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",SCTV
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", PERSIANA SPORTS
 https://spstr.abntv.live/hls/psstream.m3u8
