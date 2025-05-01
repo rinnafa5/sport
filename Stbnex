@@ -1,5 +1,45 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",MNCTV
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",RCTI
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",2
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2702.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",3
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2703.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",5
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",7
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2707.ts
+
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",INDOSIAR
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",SCTV
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",MOJI
+http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",Trans7
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/5.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",Transtv
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",Antv
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",Tvone
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/5.ts
+
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",COURT SPORTS
 https://sports361.github.io/hls/csn.m3u8
 
