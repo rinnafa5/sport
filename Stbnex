@@ -66,6 +66,9 @@ https://smart.pendy.dpdns.org/Smart.php?id=metrotv_eko
 #EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvOne_2023.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", TVOne
 https://smart.pendy.dpdns.org/Smart.php?id=Tvone
 
+#EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Inews
+https://smart.pendy.dpdns.org/Smart.php?id=Inews
+
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 2
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2702.ts
@@ -81,6 +84,34 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",hbo signature
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 10
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2710.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 11
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2711.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 12
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2712.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 80
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2680.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 81
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2681.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 82
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2682.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 83
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2683.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 84
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2684.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 85
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2685.ts
+
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 90
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2690.ts
@@ -110,33 +141,6 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2697.ts
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2698.ts
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TEST 1
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/1.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TEST 2
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/2.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TRANS TV
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/3.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TRANS7
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",metro
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/6.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TVRI
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/8.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TEST 9
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/9.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",KOMPASTV
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/10.ts
-
-#EXTINF:4 group-title="NASIONAL1" aktv-server-group="AKTV" tvg-id="GTV" tvg-logo="" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Inews
-https://smart.pendy.dpdns.org/Smart.php?id=INEWS
 
 
 
