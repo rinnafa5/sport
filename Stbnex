@@ -70,7 +70,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=Tvone
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 2
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2702.ts
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 3
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",trill
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2703.ts
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 7
@@ -79,7 +79,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2707.ts
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 8
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 9
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",hbo signature
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 90
@@ -91,10 +91,10 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2691.ts
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 92
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2692.ts
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 93
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",kix
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2693.ts
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 94
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv galaxy
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2694.ts
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 95
@@ -106,7 +106,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2696.ts
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 97
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2697.ts
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 98
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",astro Grand
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2698.ts
 
 
@@ -117,26 +117,26 @@ http://iptv.kilas7.com:80/live/kaukia/asdfrewq/1.ts
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TEST 2
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/2.ts
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TEST 3
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TRANS TV
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/3.ts
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TEST 4
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TRANS7
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.ts
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TEST 6
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",metro
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/6.ts
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TEST 8
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TVRI
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/8.ts
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TEST 9
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/9.ts
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TEST 10
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",KOMPASTV
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/10.ts
 
 #EXTINF:4 group-title="NASIONAL1" aktv-server-group="AKTV" tvg-id="GTV" tvg-logo="" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Inews
-https://smart.pendy.dpdns.org/Smart.php?id=Inews
+https://smart.pendy.dpdns.org/Smart.php?id=INEWS
 
 
 
