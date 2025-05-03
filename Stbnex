@@ -36,6 +36,18 @@ https://smart.pendy.dpdns.org/Smart.php?id=SCTV
 #EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Indosiar_2015.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Indosiar
 https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
 
+#EXTINF:-1 group-title="NASIONAL" tvg-id="TVRISMART" tvg-logo="https://pictr.com/images/2025/01/23/xpbBK2.jpg",TVRI SPORT
+https://smart.pendy.dpdns.org/Smart.php?id=TVRI
+
+#EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="metrotv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", MNCTV
+https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
+
+#EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", GTV
+https://smart.pendy.dpdns.org/Smart.php?id=Gtv
+
+#EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/250px-Rajawali_Televisi.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", RTV
+https://smart.pendy.dpdns.org/Smart.php?id=Rtv
+
 #EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/2880px-Antv_logo.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", ANTV 
 https://smart.pendy.dpdns.org/Smart.php?id=Antv
 
