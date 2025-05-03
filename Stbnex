@@ -431,3 +431,35 @@ http://sky.sportiumvip.xyz/live/TV-23095842/208693635535/109298.ts
 
 #EXTINF:-1 group-title="TIMNASDAY" tvg-id="qvc" tvg-logo="", BRI LIGA 1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
+
+
+
+#EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Truyền hình chích điện siêu phê",Rasmey Hang Meas HDTV
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hang_maes_tv.png" group-title="Truyền hình chích điện siêu phê",Hang Meas HDTV
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="Truyền hình chích điện siêu phê",Hang Meas NOW UHDTV
+http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_Melody_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="Truyền hình chích điện siêu phê",Hang Meas MELODY UHDTV
+http://abclive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_PLAY_UHDTV.kh" tvg-logo="https://i.imgur.com/SSeLJWo.png" group-title="Truyền hình chích điện siêu phê",Hang Meas PLAY UHDTV
+http://abclive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_CINE_UHDTV.kh" tvg-logo="https://i.imgur.com/uZ0aNK3.png" group-title="Truyền hình chích điện siêu phê",Hang Meas CINE UHDTV
+http://abclive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_MALL_HDTV.kh" tvg-logo="https://i.imgur.com/E49KcQz.png" group-title="Truyền hình chích điện siêu phê",Hang Meas MALL HDTV
+http://abclive.malisresidences.com:1935/snappee/_definst_/smil:snappee.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="https://i.imgur.com/98fRynX.png" group-title="Truyền hình chích điện siêu phê",Hang Meas GO UHDTV
+http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="Truyền hình chích điện siêu phê",Hang Meas BOXING UHDTV
+http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="Truyền hình chích điện siêu phê",CNC 
+http://43.252.18.195:5080/live/streams/cnctv.m3u8
