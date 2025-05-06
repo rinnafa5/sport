@@ -82,6 +82,29 @@ https://smart.pendy.dpdns.org/Smart.php?id=Tvone
 #EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Inews
 https://smart.pendy.dpdns.org/Smart.php?id=Inews
 
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Indosiar
+https://raw.githubusercontent.com/quuen2024/vod-1/refs/heads/queen/indo.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",SCTV
+https://raw.githubusercontent.com/quuen2024/vod-1/refs/heads/queen/sctv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1", RCTI
+https://raw.githubusercontent.com/quuen2024/vod-1/refs/heads/queen/rcti.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",MOJI
+https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TVRI SPORT
+https://raw.githubusercontent.com/quuen2024/vod-1/refs/heads/queen/tvrisport3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",MNCTV
+https://raw.githubusercontent.com/quuen2024/vod-1/refs/heads/queen/mnctv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TRANS7
+https://raw.githubusercontent.com/quuen2024/vod-1/refs/heads/queen/trans7.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",TRANSTV
+https://raw.githubusercontent.com/quuen2024/vod-1/refs/heads/queen/transTv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 2
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2702.ts
