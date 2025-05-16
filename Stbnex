@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/indosiar.png" group-title="NASIONAL",Indosiar HD
+https://link.zozotv.xyz:443/live/usez37/zxy921/45.ts
+
+
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",MNCTV
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
 
