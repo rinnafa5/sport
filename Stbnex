@@ -4,18 +4,6 @@
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",RCTI SD
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="NASIONAL", GTV HD
-https://allcutv.rctiplus.id/gtv2023.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="NASIONAL", MNCTV HD
-https://allcutv.rctiplus.id/mnctv2023.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="NASIONAL", RCTI HD
-https://allcutv.rctiplus.id/rcti2023.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="NASIONAL", INEWS HD
-https://allcutv.rctiplus.id/inews2023.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",MNCTV
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
 
