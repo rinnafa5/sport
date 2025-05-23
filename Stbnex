@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",INEWS
-http://home-tv.online:80/hmtv_btm/fghdjur77dhv/10.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",RCTI SD
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
