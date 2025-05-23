@@ -529,19 +529,3 @@ http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",NATION TV 
 http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="" group-title="HUB SPORTS",HUB SPORTS 1
-http://exm3u.extraott.com:900/live/1103581436/4099381829/36305.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="" group-title="HUB SPORTS",HUB SPORTS 2
-http://exm3u.extraott.com:900/live/1103581436/4099381829/36304.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 3" tvg-logo="" group-title="HUB SPORTS",HUB SPORTS 3
-http://exm3u.extraott.com:900/live/1103581436/4099381829/36303.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 4" tvg-logo="" group-title="HUB SPORTS",HUB SPORTS 4
-http://exm3u.extraott.com:900/live/1103581436/4099381829/36302.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 5" tvg-logo="" group-title="HUB SPORTS",HUB SPORTS 5
-http://exm3u.extraott.com:900/live/1103581436/4099381829/36301.m3u8
-
-
