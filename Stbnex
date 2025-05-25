@@ -508,8 +508,8 @@ http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",True 4U
 http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
 
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",TSPORTS
-https://www.livedoomovies.com:4432/02_T_Sports_480p/chunklist.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",TSPORTS 7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",NBT
 http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
