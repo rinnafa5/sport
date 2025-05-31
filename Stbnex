@@ -544,3 +544,42 @@ http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",NATION TV 
 http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",BEIN 1
+https://dko29we9nm1rd.cloudfront.net/hls/CH638/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",BEIN  2
+https://dko29we9nm1rd.cloudfront.net/hls/CH639/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Now
+https://dko29we9nm1rd.cloudfront.net/hls/CH630/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW 1
+https://dko29we9nm1rd.cloudfront.net/hls/CH631/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW 2
+https://dko29we9nm1rd.cloudfront.net/hls/CH632/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW 3
+https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW 4
+https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW 6
+https://dko29we9nm1rd.cloudfront.net/hls/CH626/index.m3u8
+
+ #EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW 7
+https://dko29we9nm1rd.cloudfront.net/hls/CH627/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW premier
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW true
+https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
+
+ #EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW true 2
+https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW 634
+https://dko29we9nm1rd.cloudfront.net/hls/CH625/index.m3u8
