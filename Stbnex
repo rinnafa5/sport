@@ -544,22 +544,22 @@ http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",NATION TV 
 http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",  A+ Guate
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",A+ Guate
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê", Azteca Guate
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",Azteca Guate
 https://ch1-tva.duin.dev/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",WOW TV
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",CR 2
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",CR 2
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",CR 4
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",CR 4
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",CR 6
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",CR 6
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 
