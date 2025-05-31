@@ -435,9 +435,6 @@ https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",YEStv 
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",BTV news
-https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="TIMNASDAY" tvg-id="qvc" tvg-logo="",SPORTSTARS 2
 https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
 
@@ -499,6 +496,9 @@ http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/playlist
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="Truyền hình chích điện siêu phê",CNC 
 http://43.252.18.195:5080/live/streams/cnctv.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",BTV news
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",PPTV 
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 
@@ -543,6 +543,25 @@ http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
 
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",NATION TV 
 http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title=" Truyền hình chích điện siêu phê",  A+ Guate
+https://ch2-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Truyền hình chích điện siêu phê", Azteca Guate
+https://ch1-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Truyền hình chích điện siêu phê",, WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Truyền hình chích điện siêu phê", CR 2
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Truyền hình chích điện siêu phê", CR 4
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" Truyền hình chích điện siêu phê", CR 6
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",BEIN 1
