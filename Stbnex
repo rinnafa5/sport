@@ -4,44 +4,6 @@
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",RCTI SD
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",MNCTV
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",RCTI
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",INDOSIAR
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",SCTV
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",MOJI
-http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",Trans7
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",Transtv
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2704.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",Antv
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",Tvone
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/5.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",Astro Ria
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",Astro Citra
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",Astro Prima
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2677.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",Astro Grand
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2698.ts
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",GTV
 https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
@@ -127,72 +89,7 @@ https://raw.githubusercontent.com/quuen2024/delay/refs/heads/queen/sindo_news.m3
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",INEWS
 https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/inews.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 2
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2702.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",trill
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2703.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 7
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2707.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 8
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",hbo signature
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 80
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2680.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 81
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2681.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 82
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2682.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 83
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2683.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 84
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2684.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 85
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2685.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 90
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2690.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 91
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2691.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 92
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2692.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",kix
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2693.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv galaxy
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2694.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 95
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 96
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2696.ts
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Tv 97
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2697.ts
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",COURT SPORTS
+##EXTINF:-1 tvg-logo="" group-title="TELE SPORT",COURT SPORTS
 https://sports361.github.io/hls/csn.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.manutd.com/AssetPicker/images/0/0/11/201/772402/Manchester_United_Crest_Comp_180x1801550591475296.png" group-title="TELE SPORT",MU TV
