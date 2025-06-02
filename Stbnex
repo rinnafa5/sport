@@ -657,43 +657,51 @@ https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",Trece
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Oman Sport
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",BAHRAIN 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",BAHRAIN 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",KUWAIT SPORTS 1
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",KUWAIT SPORTS 2
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",AD 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",AD 1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",BEIN 1
-https://dko29we9nm1rd.cloudfront.net/hls/CH638/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Dubai Sports 1 
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",BEIN  2
-https://dko29we9nm1rd.cloudfront.net/hls/CH639/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",Now
-https://dko29we9nm1rd.cloudfront.net/hls/CH630/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW 1
-https://dko29we9nm1rd.cloudfront.net/hls/CH631/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW 2
-https://dko29we9nm1rd.cloudfront.net/hls/CH632/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Dubai Sports 3 
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW 3
-https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW 4
-https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Dubai
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW 6
-https://dko29we9nm1rd.cloudfront.net/hls/CH626/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Dubai One 
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/.m3u8
 
- #EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW 7
-https://dko29we9nm1rd.cloudfront.net/hls/CH627/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Dubai Racing 
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW premier
-https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Dubai Racing 2 
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW true
-https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",KUWAIT 1
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv2.stream.smil/chunklist.m3u8
 
- #EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW true 2
-https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",NOW 634
-https://dko29we9nm1rd.cloudfront.net/hls/CH625/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",KUWAIT 2
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
