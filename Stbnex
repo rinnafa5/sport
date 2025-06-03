@@ -56,6 +56,39 @@ https://smart.pendy.dpdns.org/Smart.php?id=Tvone
 #EXTINF:4 group-title="NASIONAL" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Inews
 https://smart.pendy.dpdns.org/Smart.php?id=INEWS
 
+#EXTINF:-1,tvg-id="体育频道|Arena" tvg-name="体育频道|Arena" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA.png" group-title="NASIONAL",Astro Arena
+https://smart.pendy.dpdns.org/Smart.php?id=Arena
+
+#EXTINF:-1,tvg-id="体育频道|Arena 2" tvg-name="体育频道|Arena 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA2.png" group-title="NASIONAL",Astro Arena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Arena2
+
+#EXTINF:-1,tvg-id="体育频道|BolaArena 1" tvg-name="体育频道|BolaArena 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|BOLAARENA1.png" group-title="NASIONAL",Astro BolaArena 1
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
+
+#EXTINF:-1,tvg-id="体育频道|BolaArena 2" tvg-name="体育频道|BolaArena 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|BOLAARENA2.png" group-title="NASIONAL",Astro BolaArena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
+
+#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-logo="https://i.imgur.com/M4nTRLb.png" group-title="NASIONAL", Astro Premier League FHD
+https://smart.pendy.dpdns.org/Smart.php?id=Assp1
+
+#EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-logo="https://i.imgur.com/f6hG3Ok.png" group-title="NASIONAL", Astro Premier League 2 FHD
+https://smart.pendy.dpdns.org/Smart.php?id=Assp2
+
+#EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-logo="https://i.imgur.com/u92HNWn.png" group-title="NASIONAL", Astro Grandstand FHD
+https://smart.pendy.dpdns.org/Smart.php?id=Assp3
+
+#EXTINF:-1 tvg-id="Astro.Football.my" tvg-logo="https://i.imgur.com/ixUEirO.png" group-title="NASIONAL", Astro Football FHD
+https://smart.pendy.dpdns.org/Smart.php?id=Assp4
+
+#EXTINF:-1,tvg-id="体育频道|Astro Sports Plus" tvg-name="体育频道|Astro Sports Plus" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROSPORTSPLUS.png" group-title="NASIONAL",Astro Sports Plus
+https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
+
+#EXTINF:-1,tvg-id="体育频道|Astro Badminton 1" tvg-name="体育频道|Astro Badminton 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBADMINTON1.png" group-title="NASIONAL",Astro Badminton 1
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
+
+#EXTINF:-1,tvg-id="体育频道|Astro Badminton 2" tvg-name="体育频道|Astro Badminton 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBADMINTON2.png" group-title="NASIONAL",Astro Badminton 2
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
+
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Indosiar
 https://raw.githubusercontent.com/quuen2024/vod-1/refs/heads/queen/indo.m3u8
 
