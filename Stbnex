@@ -371,11 +371,10 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1 group-title="TELE SPORT", Sport Italia Live
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TELE SPORT",RTHK 31
+#EXTINF:-1 group-title="TIMNASDAY",RTHK 31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 
-
-#EXTINF:-1 group-title="TELE SPORT",RTHK 32
+#EXTINF:-1 group-title="TIMNASDAY",RTHK 32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
 #EXTINF:-1 group-title="TIMNASDAY" tvg-id="Sportstars 2.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstars 2
