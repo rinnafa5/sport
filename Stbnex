@@ -389,18 +389,29 @@ https://wo.cma.footballii.ir/hls2/b3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",SSC1
 https://wo.cma.footballii.ir/hls2/ssc1.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",VARZESH HD
+https://wo.cma.footballii.ir/hls2/varzeshtv.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",IRIB TV3 HD
 https://wo.cma.footballii.ir/hls2/tv3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",RTHK32 SD
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream3/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Bein Sports 1
+https://balance.footballii.ir/hls2/b1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",RTHK32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Bein Sports 2
+https://balance.footballii.ir/hls2/b2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",RTHK31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Bein Sports 3
+https://balance.footballii.ir/hls2/b3.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Irib tv3
+https://balance.footballii.ir/hls2/tv3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Varzesh tv
+https://balance.footballii.ir/hls2/varzeshtv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",SSC1
+https://balance.footballii.ir/hls2/ssc1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", PERSIANA HD
 https://spstr.abntv.live/hls/psstream.m3u8
@@ -422,6 +433,16 @@ https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 
 #EXTINF:-1 group-title="TIMNASDAY",RTHK 32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",RTHK32 SD
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream3/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+
 
 #EXTINF:-1 group-title="TIMNASDAY" tvg-id="Sportstars 2.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstars 2
 https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
