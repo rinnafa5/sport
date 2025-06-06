@@ -389,6 +389,21 @@ https://wo.cma.footballii.ir/hls2/b3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",SSC1
 https://wo.cma.footballii.ir/hls2/ssc1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", PERSIANA HD
+https://spstr.abntv.live/hls/psstream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", PERSIANA SD
+https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-sport.png" group-title="TIMNASDAY", PERSIANA SD
+https://stream.sainaertebat.com/hls2/persianas.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", IRIB VARZESH SD
+https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", IRIB TV3 SD
+https://stream.sainaertebat.com/hls2/tv3test.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",VARZESH HD
 https://wo.cma.footballii.ir/hls2/varzeshtv.m3u8
 
@@ -412,21 +427,6 @@ https://balance.footballii.ir/hls2/varzeshtv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",SSC1
 https://balance.footballii.ir/hls2/ssc1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", PERSIANA HD
-https://spstr.abntv.live/hls/psstream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", PERSIANA SD
-https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-sport.png" group-title="TIMNASDAY", PERSIANA SD
-https://stream.sainaertebat.com/hls2/persianas.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", IRIB VARZESH SD
-https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", IRIB TV3 SD
-https://stream.sainaertebat.com/hls2/tv3test.m3u8
 
 #EXTINF:-1 group-title="TIMNASDAY",RTHK 31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
