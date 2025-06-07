@@ -108,6 +108,14 @@ https://smart.pendy.dpdns.org/Smart.php?id=Rania
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",Astro Aura
 https://smart.pendy.dpdns.org/Smart.php?id=Aura
 
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",DUTA TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",BANJAR TV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",PRIMA TV
+https://primatv.siar.us/primatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",Indosiar
 https://raw.githubusercontent.com/quuen2024/vod-1/refs/heads/queen/indo.m3u8
