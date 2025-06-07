@@ -756,6 +756,22 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê", RTB GO
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",RTM LIVE
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",RTM SUKAN HD
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",RTM SUKAN 
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8
+
+
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",A+ Guate
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
