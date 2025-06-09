@@ -1,5 +1,33 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL", BELARUS 5 
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL", BELARUS 5 INT
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL", BELARUS 5 x
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="itv.uz" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//f79dce2ae2bd9ef84b6888f226fbb293-q-500x500.jpeg", Sport UZ HD
+https://iptv.itv.uz/hls/live/t/P8fdG1oXLqa-mc7SpYAJtw/e/1749409184/1004/index.m3u8?ip=104.28.212.141
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/01/07//20d9335019d646e341e84482f3b5679b-q-500x500.jpeg", Futbol TV
+https://iptv.itv.uz/hls/live/t/KxoMrE-Tega9oW5g2gty-A/e/1749409184/1010/index.m3u8?ip=104.28.212.141
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",Маtch
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=-ZsLlESkg9NDj38P0BekAA&e=1749452215&scheme=https
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL", fussball
+https://bl.rutube.ru/livestream/ece6eac5d133f66d7777a76b920c4cb3/index.m3u8?s=iLdHoSH8joImURY0pbFHEw&e=1749452222&scheme=https
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL", BELARUS 5 ,Волейбол
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL", Cbs
+https://bl.rutube.ru/livestream/b0b18852d54304b674e78e27c188f481/index.m3u8?s=pUkZ8phW4hvV0vbnspVJ7g&e=1749452234&scheme=https
+
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",RCTI SD
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
