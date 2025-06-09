@@ -402,7 +402,7 @@ https://spstr.abntv.live/hls/psstream.m3u8
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-sport.png" group-title="TIMNASDAY", PERSIANA SD
-https://stream.sainaertebat.com/hls2/persianas.m3u8
+https://stream.sainaertebat.com/hls2/persiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", IRIB VARZESH SD
 https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
