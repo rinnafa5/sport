@@ -683,61 +683,61 @@ https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SONY TEN", KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Stars select 1
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Stars select 1
 http://103.120.172.74:1030
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Stars select 2
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Stars select 2
 http://103.120.172.74:4700
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Stars sports 1
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Stars sports 1
 http://103.120.172.74:5500
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Stars sports 1
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Stars sports 1
 http://103.120.172.74:4600
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Stars sports 2
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Stars sports 2
 http://103.120.172.74:4200
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Sony ten 1
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Sony ten 1
 http://103.120.172.74:5400
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Sony ten 2 
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Sony ten 2 
 http://103.120.172.74:4800
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Sony ten 5
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Sony ten 5
 http://103.120.172.74:5300
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Bein Sports 1
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Bein Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Bein Sports 2
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Bein Sports 2
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Ptv sports
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Ptv sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Ary sports 
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Ary sports 
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="INDIA",Geo super
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Ten sports
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Ten sports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Sab
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Sab
 http://103.120.172.74:4400
 
 #EXTINF:-1 tvg-logo=""group-title="INDIA",Colors
 http://103.120.172.74:1070
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Zee tv
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Zee tv
 http://103.120.172.74:4000
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Max
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Max
 http://103.120.172.74:1150
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Zee cinema
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Zee cinema
 http://103.120.172.74:4100
 
 #EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Truyền hình chích điện siêu phê",Rasmey Hang Meas HDTV
