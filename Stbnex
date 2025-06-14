@@ -713,13 +713,16 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/chunklist_w319570480.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA",Bein Sports 2
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Bein Sports 3
+http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="INDIA",Ptv sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDIA",Ary sports 
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Geo super
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Geo super
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDIA",Ten sports
@@ -728,7 +731,7 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA",Sab
 http://103.120.172.74:4400
 
-#EXTINF:-1 tvg-logo=""group-title="INDIA",Colors
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Colors
 http://103.120.172.74:1070
 
 #EXTINF:-1 tvg-logo="" group-title="INDIA",Zee tv
