@@ -857,6 +857,10 @@ https://edge06.776740.ir.cdn.ir/hls2/bein1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LATIN",BEIN 2
 https://edge06.776740.ir.cdn.ir/hls2/bein2.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="LATIN", SPORTS 5 ISR
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlistMain_1_.m3u8
+
+
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="LATIN",Americana peru
 https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
