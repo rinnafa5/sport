@@ -962,20 +962,84 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",Dubai Sports 3 
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",Dubai
-https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",Dubai One 
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",EPL
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",Dubai Racing 
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",FOOTBALL
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_FOOTBALL/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",Dubai Racing 2 
-https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",EVENT
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",KUWAIT 1
-https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",ARENA
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_ARENA/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",KUWAIT 2
-https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",MIX
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MIX/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",TNT 1
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",TNT 2
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",TNT 3
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",TNT 4
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_4/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",ESPN
+https://livetvkilatlive.applecdnstore.com/livetv/2024/USA_ESPN/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",FOX 2
+https://livetvkilatlive.applecdnstore.com/livetv/2024/USA_FOX_SPORTS_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",BBC 1
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_BBC_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",ITV 1
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",ITV 2
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",ITV 3
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",ITV 4
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_4/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY", BOXING
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY", TP 1
+https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD1_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",TP 2
+https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD2_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",TP 3
+https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD3_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",TP 4
+https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD4_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",TP 5
+https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Bein 3 thai
+https://delicate-hall-d108.wirdytv.workers.dev/02_sport6_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Bein 1 thai
+https://delicate-hall-d108.wirdytv.workers.dev/02_sport2_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",PPTV
+https://delicate-hall-d108.wirdytv.workers.dev/02_PPTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",MCOT
+https://delicate-hall-d108.wirdytv.workers.dev/02_MCOTHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",THAIRATH
+https://delicate-hall-d108.wirdytv.workers.dev/02_THAIRATH_720p/chunklist.m3u8
