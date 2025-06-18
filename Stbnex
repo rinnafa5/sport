@@ -1045,6 +1045,9 @@ https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd2_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",TS 3
 https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd3_480p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTY", TS 5
+https://delicate-hall-d108.wirdytv.workers.dev/02_sport5_480p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",TS 7
 https://delicate-hall-d108.wirdytv.workers.dev/02_sport7_480p/chunklist.m3u8
 
@@ -1057,18 +1060,14 @@ https://delicate-hall-d108.wirdytv.workers.dev/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",TS 1 HD
 https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd1_720p/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",TS 2 HD
 https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd2_720p/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",TS 3 HD
 https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd3_720p/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",TS 4 HD
 https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd4_720p/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",SPOTV HD
 https://delicate-hall-d108.wirdytv.workers.dev/02_foxsport_720p/chunklist.m3u8
