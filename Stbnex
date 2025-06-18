@@ -1039,6 +1039,39 @@ https://delicate-hall-d108.wirdytv.workers.dev/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",Bein 1 thai
 https://delicate-hall-d108.wirdytv.workers.dev/02_sport2_480p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",TS 2
+https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd2_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",TS 3
+https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd3_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",TS 7
+https://delicate-hall-d108.wirdytv.workers.dev/02_sport7_480p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",TS 1 HD
+https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",TS 2 HD
+https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",TS 3 HD
+https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd3_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",TS 4 HD
+https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd4_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",SPOTV HD
+https://delicate-hall-d108.wirdytv.workers.dev/02_foxsport_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",SPOTV2 HD
+https://delicate-hall-d108.wirdytv.workers.dev/02_FoxSport2_TH_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",PPTV
 https://delicate-hall-d108.wirdytv.workers.dev/02_PPTVHD_720p/chunklist.m3u8
 
