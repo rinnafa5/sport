@@ -390,6 +390,9 @@ https://iptv.itv.uz/hls/live/t/xUXMfU2uSlLi6yxufgAcUA/e/1750316260/1004/index.m3
 #EXTINF:-1 group-title="TIMNASDAY" tvg-logo="", Futbol UZ
 https://iptv.itv.uz/hls/live/t/zsfNs76PFuvMmE6FyqnEaw/e/1750316261/1010/index.m3u8?ip=94.131.121.63
 
+#EXTINF:-1 group-title="TIMNASDAY" tvg-logo="", ZOR UZ
+https://iptv.itv.uz/hls/live/t/_t9AAr-m_Ej31qiyngsNTw/e/1750316261/1016/index.m3u8?ip=94.131.121.63
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VVk2VwR/iribtv3.png" group-title="TIMNASDAY", IRIB TV3 A
 https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 
