@@ -1105,17 +1105,72 @@ https://delicate-hall-d108.wirdytv.workers.dev/02_MCOTHD_720p/chunklist.m3u8
 https://delicate-hall-d108.wirdytv.workers.dev/02_THAIRATH_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="IRANTV",TV1
-https://lenz.splus.ir/PLTV/88888888/224/3221226637/3.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="IRANTV",TV2
-https://lenz.splus.ir/PLTV/88888888/224/3221226176/3.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png" group-title="IRANTV",PERSIANA SPORTS
+https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="IRANTV",VARZESH
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="IRANTV",IRIB TV3 
 https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA
+https://euhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA One
+https://onehls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA Two
+https://twohls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA Family
+https://familyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA Iran
+https://irhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA Junior
+https://junhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA Korea
+https://korhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA Latin
+https://latinohls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA Music
+https://musichls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA Rap
+https://raphls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA Science
+https://scihls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA Sonnati
+https://sonhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",TV1
+https://lenz.splus.ir/PLTV/88888888/224/3221226637/3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",TV2
+https://lenz.splus.ir/PLTV/88888888/224/3221226176/3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="IRANTV",TV4
 https://lenz.splus.ir/PLTV/88888888/224/3221226140/3.m3u8
