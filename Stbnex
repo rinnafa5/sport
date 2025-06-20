@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="TEST",IRIB1
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",IRIB2
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",IRIB3
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/3.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",RCTI SD
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
