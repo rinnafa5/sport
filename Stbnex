@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="TEST",VARZESH
-https://lenz.splus.ir/PLTV/88888888/224/3221226845/4.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TEST",IRIB3
-https://lenz.splus.ir/PLTV/88888888/224/3221226868/4.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",RCTI SD
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
@@ -390,11 +384,14 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1 group-title="TELE SPORT", Sport Italia Live
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VVk2VwR/iribtv3.png" group-title="TIMNASDAY", IRIB TV3 A
-https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",VARZESH SD
+https://lenz.splus.ir/PLTV/88888888/224/3221226845/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY",IRIB VARZESH A
-https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",IRIB TV3 SD
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", PERSIANA HD
+https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",BEIN SPORTS 1
 https://wo.cma.footballii.ir/hls2/b1.m3u8
@@ -408,14 +405,11 @@ https://wo.cma.footballii.ir/hls2/b3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",SSC1
 https://wo.cma.footballii.ir/hls2/ssc1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", PERSIANA HD
-https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-sport.png" group-title="TIMNASDAY", PERSIANA stm
+https://stream.sainaertebat.com/hls2/persiana.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY", PERSIANA cma
 https://wo.cma.footballii.ir/hls2/persiana.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-sport.png" group-title="TIMNASDAY", PERSIANA stm
-https://stream.sainaertebat.com/hls2/persiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", PERSIANA ays
 https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
