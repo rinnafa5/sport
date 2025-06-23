@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="EVENT",Caze brazil
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVENT",Telefe
+https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVENT",2CG HD
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVENT",mbc masr
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVENT",Tenis tv
+https://proji.glitch.me/https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVENT",Concacaf
+https://dto4p9su9kcif.cloudfront.net/out/v1/9215529a621947689739a7671e6dd0d3/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",RCTI SD
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
