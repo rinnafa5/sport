@@ -858,6 +858,16 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png" group-title="LATIN",PERSIANA SPORTS
+https://spstr.abntv.live/hls/psstream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATIN",VARZESH
+https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LATIN",IRIB TV3 
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="LATIN",PERSIANA
 https://edge06.776740.ir.cdn.ir/hls2/persiana.m3u8
 
