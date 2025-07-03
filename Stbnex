@@ -89,6 +89,18 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL", Astro Badminton 2
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
 
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL", BOSI 1
+https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL", BOSI 2
+https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL", BOSI GOLF
+https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL", BOSI TENNIS
+https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
+
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",Astro Prima
 https://smart.pendy.dpdns.org/Smart.php?id=Prima-0
 
