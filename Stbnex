@@ -1218,6 +1218,19 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226786/3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IRANTV",Nasim
 https://lenz.splus.ir/PLTV/88888888/224/3221226653/3.m3u8
 
+
+#EXTINF:-1 tvg-id="LIVE 5.sg" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",M LIVE 5 
+#EXTGRP:EVENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xSQQ81r/mlive6.png",M LIVE 6 
+#EXTGRP:EVENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="EVENT",Caze brazil
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
