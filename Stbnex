@@ -850,11 +850,57 @@ http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m
 #EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="Truyền hình chích điện siêu phê",Hang Meas BOXING UHDTV
 http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="Truyền hình chích điện siêu phê",CNC 
-http://43.252.18.195:5080/live/streams/cnctv.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",BTV news
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",CNC 
+https://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",CTN
+https://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Mytv
+http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",ctv8
+http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Ntv
+https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Bayon
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Apsara
+https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Ses9
+https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Eac news
+https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Seatv
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Towntv
+http://202.79.26.142/LiveApp/streams/TownTVHD.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Tv5 cm
+https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Tv3 cm
+http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Tvk
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Tvk2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Vtv1
+https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",PPTV 
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
