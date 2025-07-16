@@ -1,5 +1,54 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",BTV news
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Thairath HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Thairath32
+https://delicate-hall-d108.wirdytv.workers.dev/02_THAIRATH_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro Arena
+https://smart.pendy.dpdns.org/Smart.php?id=Arena
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro Arena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Arena2
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro BolaArena 1
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23", Astro BolaArena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
+
+
+#EXTINF:-1 tvg-id="LIVE 5.sg" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",M LIVE 5 
+#EXTGRP:TIMNASDAY23
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
+https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xSQQ81r/mlive6.png",M LIVE 6 
+#EXTGRP:TIMNASDAY23
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+#EXTINF:-1 tvg-id="ASTARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xm" tvg-logo="" group-title="TIMNASDAY23",Astro Arena 1
+https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
+
+#EXTINF:-1 tvg-id="ASTARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="" group-title="TIMNASDAY23",Astro Arena 2
+https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
+
+#EXTINF:-1 tvg-id="ARENA BOLA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="" group-title="TIMNASDAY23",Arena Bola 1
+https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
+
+#EXTINF:-1 tvg-id="ARENA BOLA 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="" group-title="TIMNASDAY23",Arena Bola 2
+https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",RCTI SD
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
@@ -1217,19 +1266,6 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226786/3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="IRANTV",Nasim
 https://lenz.splus.ir/PLTV/88888888/224/3221226653/3.m3u8
-
-
-#EXTINF:-1 tvg-id="LIVE 5.sg" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",M LIVE 5 
-#EXTGRP:EVENT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xSQQ81r/mlive6.png",M LIVE 6 
-#EXTGRP:EVENT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="EVENT",Caze brazil
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
