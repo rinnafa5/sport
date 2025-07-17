@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",BTV news
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Bayon
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Thairath HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
@@ -869,9 +872,6 @@ http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playl
 #EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Ntv
 https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Bayon
-https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Apsara
 https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8
 
@@ -1321,6 +1321,12 @@ https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="EVENT",2CG HD
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVENT",CG1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVENT",GC SAT
+http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="EVENT",mbc masr
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
