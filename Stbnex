@@ -826,144 +826,144 @@ http://103.120.172.74:1150
 #EXTINF:-1 tvg-logo="" group-title="INDIA",Zee cinema
 http://103.120.172.74:4100
 
-#EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Truyền hình chích điện siêu phê",Rasmey Hang Meas HDTV
+#EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="ASEAN",Rasmey Hang Meas HDTV
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hang_maes_tv.png" group-title="Truyền hình chích điện siêu phê",Hang Meas HDTV
+#EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hang_maes_tv.png" group-title="ASEAN",Hang Meas HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 
-#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="Truyền hình chích điện siêu phê",Hang Meas NOW UHDTV
+#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="ASEAN",Hang Meas NOW UHDTV
 http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/playlist.m3u8
 
-#EXTINF:-31 tvg-id="Hang_Meas_Melody_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="Truyền hình chích điện siêu phê",Hang Meas MELODY UHDTV
+#EXTINF:-31 tvg-id="Hang_Meas_Melody_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="ASEAN",Hang Meas MELODY UHDTV
 http://abclive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/playlist.m3u8
 
-#EXTINF:-31 tvg-id="Hang_Meas_PLAY_UHDTV.kh" tvg-logo="https://i.imgur.com/SSeLJWo.png" group-title="Truyền hình chích điện siêu phê",Hang Meas PLAY UHDTV
+#EXTINF:-31 tvg-id="Hang_Meas_PLAY_UHDTV.kh" tvg-logo="https://i.imgur.com/SSeLJWo.png" group-title="ASEAN",Hang Meas PLAY UHDTV
 http://abclive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist.m3u8
 
-#EXTINF:-31 tvg-id="Hang_Meas_CINE_UHDTV.kh" tvg-logo="https://i.imgur.com/uZ0aNK3.png" group-title="Truyền hình chích điện siêu phê",Hang Meas CINE UHDTV
+#EXTINF:-31 tvg-id="Hang_Meas_CINE_UHDTV.kh" tvg-logo="https://i.imgur.com/uZ0aNK3.png" group-title="ASEAN",Hang Meas CINE UHDTV
 http://abclive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8
 
-#EXTINF:-31 tvg-id="Hang_Meas_MALL_HDTV.kh" tvg-logo="https://i.imgur.com/E49KcQz.png" group-title="Truyền hình chích điện siêu phê",Hang Meas MALL HDTV
+#EXTINF:-31 tvg-id="Hang_Meas_MALL_HDTV.kh" tvg-logo="https://i.imgur.com/E49KcQz.png" group-title="ASEAN",Hang Meas MALL HDTV
 http://abclive.malisresidences.com:1935/snappee/_definst_/smil:snappee.smil/playlist.m3u8
 
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="https://i.imgur.com/98fRynX.png" group-title="Truyền hình chích điện siêu phê",Hang Meas GO UHDTV
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="https://i.imgur.com/98fRynX.png" group-title="ASEAN",Hang Meas GO UHDTV
 http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8
 
-#EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="Truyền hình chích điện siêu phê",Hang Meas BOXING UHDTV
+#EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="ASEAN",Hang Meas BOXING UHDTV
 http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",BTV news
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",BTV news
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",CNC 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",CNC 
 https://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",CTN
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",CTN
 https://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Mytv
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Mytv
 http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",ctv8
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",ctv8
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Ntv
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Ntv
 https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Apsara
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Apsara
 https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Ses9
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Ses9
 https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Eac news
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Eac news
 https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Seatv
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Seatv
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Towntv
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Towntv
 http://202.79.26.142/LiveApp/streams/TownTVHD.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Tv5 cm
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Tv5 cm
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Tv3 cm
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Tv3 cm
 http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Tvk
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Tvk
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Tvk2
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Tvk2
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",Vtv1
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Vtv1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",PPTV 
-http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
-
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",PPTV HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
-
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê", THAIRATH
-http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
-
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",MCOT
-http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
-
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",True 4U
-http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
-
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",TSPORTS 7
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",TSPORTS 7
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",NBT
-http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",PPTV HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê", CH7
-http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
-
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",CH8
-http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
-
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",CH3
-http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
-
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",CH5
-http://appdootv2.dootvde.com:1935/live/50002_ch5.stream.smil/playlist.m3u8
-
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",AMARIN
-http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
-
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",WORKPOINT 
-http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
-
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",GMM25 
-http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8 
-
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê",NATION TV 
-http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
-
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê", RTB ANEKA
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN", RTB ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê", RTB SUKMAINDERA 
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN", RTB SUKMAINDERA 
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="Truyền hình chích điện siêu phê", RTB GO
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN", RTB GO
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",AWANI BERITA
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",AWANI BERITA
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",RTM LIVE
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",RTM LIVE
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Truyền hình chích điện siêu phê",RTM ASEAN
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",PPTV 
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN", THAIRATH
+http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",MCOT
+http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",True 4U
+http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",NBT
+http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN", CH7
+http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",CH8
+http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",CH3
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",CH5
+http://appdootv2.dootvde.com:1935/live/50002_ch5.stream.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",AMARIN
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",WORKPOINT 
+http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",GMM25 
+http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8 
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",NATION TV 
+http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png" group-title="LATIN",PERSIANA SPORTS
 https://spstr.abntv.live/hls/psstream.m3u8
