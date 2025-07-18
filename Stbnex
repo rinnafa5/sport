@@ -902,11 +902,6 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ASEAN",Vtv1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",TSPORTS 7
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
-
-#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",PPTV HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN", RTB ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
@@ -925,6 +920,88 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ASEAN",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",TSPORTS 7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
+
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",PPTV HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
+
+#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-name="Thairath TV" group-title="ASEAN" tvg-logo="",Thairath TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+
+#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO 29" group-title="ASEAN" tvg-logo="",MONO 29
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
+
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-name="MCOT HD" group-title="ASEAN" tvg-logo="",MCOT HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
+
+#EXTINF:-1 tvg-id="One31.th" tvg-name="ONE HD" group-title="ASEAN" tvg-logo="",ONE HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
+
+
+#EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" group-title="ASEAN" tvg-logo="",3 HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
+
+EXTINF:-1 tvg-id="Channel8.th" group-title="ASEAN" tvg-logo="",Channel 8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" group-title="ASEAN" tvg-logo="",Nation TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8
+
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint TV" group-title="ASEAN" tvg-logo="",Workpoint TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
+
+#EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" group-title="ASEAN" tvg-logo="",True 4U
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
+
+#EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" group-title="ASEAN" tvg-logo="",GMM 25
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
+
+#EXTINF:-1 tvg-id="ThaiChannel8.th" tvg-name="CH 8" group-title="ASEAN" tvg-logo="",CH 8
+https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
+
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-name="Amarin TV" group-title="ASEAN" tvg-logo="",Amarin TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
+
+EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" group-title="ASEAN" tvg-logo="",TV5 HD
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
+
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="" group-title="ASEAN",CH7 HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
+
+
+#EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" group-title="ASEAN" tvg-logo="",NBT HD
+https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
+
+#EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" group-title="ASEAN" tvg-logo="",TPTV
+https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
+
+#EXTINF:-1 tvg-id="NBT11Central.th" tvg-logo="" group-title="ASEAN",NBT 11 Central
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="NBT11North.th" tvg-logo="" group-title="ASEAN",NBT 11 North
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
+
+#EXTINF:-1 tvg-id="NBT11NorthEast.th" tvg-logo="" group-title="ASEAN",NBT 11 Northeast
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
+
+#EXTINF:-1 tvg-id="NBT11South.th" tvg-logo="" group-title="ASEAN",NBT 11 South
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
+
+#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" group-title="ASEAN" tvg-logo="",THAI PBS HD
+https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
+
+#EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN 16" group-title="ASEAN" tvg-logo="",TNN 16
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
+
+#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" group-title="ASEAN" tvg-logo="",ALTV
+https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
+
+#EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" group-title="ASEAN" tvg-logo="",JKN 18
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+
+
 
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",PPTV 
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
