@@ -13,6 +13,11 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Thairath32
 https://delicate-hall-d108.wirdytv.workers.dev/02_THAIRATH_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TIMNAS23",True Sport 2
+https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd2_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNAS23",True Sport 2 HD
+https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro Arena
 https://smart.pendy.dpdns.org/Smart.php?id=Arena
