@@ -907,6 +907,24 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ASEAN",Vtv1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Pnn
+https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Channel 7
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Mrtv4
+https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Kci
+https://tv.nknews.org/tvhls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Dmtv
+https://e.siar.us/live/dmtv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Dtvi
+https://e.siar.us/live/dtvi.m3u8
 
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN", RTB ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
