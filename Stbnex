@@ -10,13 +10,6 @@ https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",btv news
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/chunklist_w1108548147.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro arena sd
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163654.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro arena 2 sd 
-http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1163655.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Thairath HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
@@ -54,8 +47,12 @@ https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",astro kids sd
-http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1163669.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro arena sd
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163654.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro arena 2 sd 
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1163655.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Bein 1
 http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163709.m3u8
