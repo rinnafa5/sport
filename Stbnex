@@ -44,6 +44,40 @@ https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",btv news
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/chunklist_w1108548147.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro arena
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163654.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro arena
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1163658.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro arena 2
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1163656.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",astro 2
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1163657.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",astro 2
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1163655.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",astro kids
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1163669.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",ASTRO ARENA mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/2604/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",ASTRO ARENA 2 mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott.mpd
+
 #EXTINF:-1 tvg-id="ASTARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xm" tvg-logo="" group-title="TIMNASDAY23",Astro Arena 1
 https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
 
