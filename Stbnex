@@ -1,95 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Indosiar
-https://hakim45.serv00.net/smarttv.php?id=Indosiar
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",BTV news
-https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Bayon
-https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",btv news
-https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/chunklist_w1108548147.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Thairath HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Thairath32
-https://delicate-hall-d108.wirdytv.workers.dev/02_THAIRATH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",True Sport 2
-https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd2_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",True Sport 2 HD
-https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro Arena
-https://smart.pendy.dpdns.org/Smart.php?id=Arena
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro Arena 2
-https://smart.pendy.dpdns.org/Smart.php?id=Arena2
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro BolaArena 1
-https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23", Astro BolaArena 2
-https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
-
-
-#EXTINF:-1 tvg-id="LIVE 5.sg" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",M LIVE 5 
-#EXTGRP:TIMNASDAY23
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
-https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xSQQ81r/mlive6.png",M LIVE 6 
-#EXTGRP:TIMNASDAY23
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro arena sd
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163654.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Astro arena 2 sd 
-http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1163655.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Bein 1
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163709.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Bein 2
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163710.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",Bein 3
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163713.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",ASTRO ARENA mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/2604/default_ott.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY23",ASTRO ARENA 2 mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott.mpd
-
-#EXTINF:-1 tvg-id="ASTARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xm" tvg-logo="" group-title="TIMNASDAY23",Astro Arena 1
-https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
-
-#EXTINF:-1 tvg-id="ASTARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="" group-title="TIMNASDAY23",Astro Arena 2
-https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
-
-#EXTINF:-1 tvg-id="ARENA BOLA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="" group-title="TIMNASDAY23",Arena Bola 1
-https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
-
-#EXTINF:-1 tvg-id="ARENA BOLA 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="" group-title="TIMNASDAY23",Arena Bola 2
-https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",RCTI SD
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
@@ -716,6 +626,34 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/BeinA
 #EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="TIMNASDAY",Bein 3 asia
 https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/BeinAsia3.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Astro arena sd
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163654.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Astro arena 2 sd 
+http://front-main.eagle-4k.me:80/live/9fshhuw2z7/54hw7lwwb1/1163655.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Bein 1
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163709.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Bein 2
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163710.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Bein 3
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163713.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",ASTRO ARENA mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/2604/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",ASTRO ARENA 2 mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott.mpd
+
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -894,6 +832,11 @@ http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/playlist
 #EXTINF:-1 tvg-logo="" group-title="ASEAN",BTV news
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",Bayon
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",btv news
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/chunklist_w1108548147.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ASEAN",CNC 
 https://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
