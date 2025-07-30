@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Sport 5 Israel
-https://raw.githubusercontent.com/rinnafa5/local/main/sport5.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" , MOJI
 https://warningfm.github.io/v3/live/str/id/d4ff175b1e2d419.m3u8
 
@@ -270,8 +267,8 @@ https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/inews.m3u8
 ##EXTINF:-1 tvg-logo="" group-title="TELE SPORT",COURT SPORTS
 https://sports361.github.io/hls/csn.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.manutd.com/AssetPicker/images/0/0/11/201/772402/Manchester_United_Crest_Comp_180x1801550591475296.png" group-title="TELE SPORT",MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,5 Sports
+https://raw.githubusercontent.com/rinnafa5/local/main/sport5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", PERSIANA SPORTS
 https://spstr.abntv.live/hls/psstream.m3u8
