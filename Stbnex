@@ -12,11 +12,11 @@ https://warningfm.github.io/v3/live/str/id/2b8fc230e8f847b.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,RCTI 
 https://warningfm.github.io/v3/live/str/id/7cb6654ebec98b7.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TRANSTV
-https://raw.githubusercontent.com/rinnafa5/local/main/transtv.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TRANS7
 https://warningfm.github.io/v3/live/str/id/cdd283c9d3d43b6.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TRANSTV
+https://raw.githubusercontent.com/rinnafa5/local/main/transtv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,ANTV
 https://warningfm.github.io/v3/live/str/id/b630a001384603f.m3u8
@@ -59,7 +59,6 @@ https://warningfm.github.io/v3/live/str/Mov/42f8fc7226dc12a.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,FIGHT SPORTS
 https://warningfm.github.io/v3/live/str/sprt/d7d981d1df08d72.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" , CNN IDN
 https://warningfm.github.io/v3/live/str/id/d12f0b99ed1f070.m3u8
