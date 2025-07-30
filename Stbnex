@@ -15,6 +15,16 @@ https://warningfm.github.io/v3/live/str/id/7cb6654ebec98b7.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Trans7 
 https://warningfm.github.io/v3/live/str/id/cdd283c9d3d43b6.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TVONE
+https://warningfm.github.io/v3/live/str/id/0976f879a0c4548.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,KOMPAS TV
+https://warningfm.github.io/v3/live/str/id/ae5f9d6bcd610b6.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,METROTV
+https://warningfm.github.io/v3/live/str/id/6183ec225226ccb.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" , MDTV
 https://warningfm.github.io/v3/live/str/id/6cdb3402d11f58d.m3u8
 
@@ -27,14 +37,25 @@ https://warningfm.github.io/v3/live/str/id/270f72deeb5843h.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,RTV
 https://warningfm.github.io/v3/live/str/id/590642f0a31efa4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TVONE
-https://warningfm.github.io/v3/live/str/id/0976f879a0c4548.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,KOMPAS TV
-https://warningfm.github.io/v3/live/str/id/ae5f9d6bcd610b6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TVN
+https://warningfm.github.io/v3/live/str/Mov/d577c0880b08b2e.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,METROTV
-https://warningfm.github.io/v3/live/str/id/6183ec225226ccb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TVN MOVIES
+https://warningfm.github.io/v3/live/str/Mov/d577c0880b08b2f.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Celestial  Movies
+https://warningfm.github.io/v3/live/str/Mov/1375b51bb1b2c31.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,KIX
+https://warningfm.github.io/v3/live/str/Mov/29afb26faff1ccd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Thrill
+https://warningfm.github.io/v3/live/str/Mov/42f8fc7226dc12a.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,FIGHT SPORT
+https://warningfm.github.io/v3/live/str/sprt/d7d981d1df08d72.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" , CNN IDN
 https://warningfm.github.io/v3/live/str/id/d12f0b99ed1f070.m3u8
