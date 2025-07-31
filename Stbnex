@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Aniplus
+https://raw.githubusercontent.com/rinnafa5/local/main/aniplus.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Antv
+https://raw.githubusercontent.com/rinnafa5/local/main/antv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,btv
+https://raw.githubusercontent.com/rinnafa5/local/main/btv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Kplus
+https://raw.githubusercontent.com/rinnafa5/local/main/Kplus.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Mdtv
+https://raw.githubusercontent.com/rinnafa5/local/main/mdtv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,trans7hd 
+https://raw.githubusercontent.com/rinnafa5/local/main/trans7hd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,transtv
+https://raw.githubusercontent.com/rinnafa5/local/main/transtvhd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,tvri
+https://raw.githubusercontent.com/rinnafa5/local/main/tvridens.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,tvri sport
+https://raw.githubusercontent.com/rinnafa5/local/main/tvrisport.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,MOJI
 https://warningfm.github.io/v3/live/str/id/d4ff175b1e2d419.m3u8
 
