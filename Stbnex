@@ -66,12 +66,15 @@ https://warningfm.github.io/v3/live/str/sprt/d7d981d1df08d72.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TVRI NASIONAL
 https://raw.githubusercontent.com/rinnafa5/local/main/tvridens.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TVRI.SPORT
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TVRI SPORT
 https://raw.githubusercontent.com/rinnafa5/local/main/tvrisport.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL" , CNN IDN
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" , CNN INDONESIA
 https://warningfm.github.io/v3/live/str/id/d12f0b99ed1f070.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,GARUDA TV HD
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Magna
 https://warningfm.github.io/v3/live/str/id/6183ec225226cce.m3u8
