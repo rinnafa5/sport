@@ -63,6 +63,12 @@ https://warningfm.github.io/v3/live/str/Mov/d577c0880b08b2f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Kplus
 https://raw.githubusercontent.com/rinnafa5/local/main/kplus.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,dens food channel
+https://raw.githubusercontent.com/rinnafa5/local/main/dfc.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,dens showbiz
+https://raw.githubusercontent.com/rinnafa5/local/main/showbiz.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Celestial  Movies
 https://warningfm.github.io/v3/live/str/Mov/1375b51bb1b2c31.m3u8
 
@@ -77,6 +83,9 @@ https://raw.githubusercontent.com/rinnafa5/local/main/aniplus.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,FIGHT SPORTS
 https://warningfm.github.io/v3/live/str/sprt/d7d981d1df08d72.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,W SPORT
+https://raw.githubusercontent.com/rinnafa5/local/main/wsport.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" , CNN INDONESIA
 https://warningfm.github.io/v3/live/str/id/d12f0b99ed1f070.m3u8
