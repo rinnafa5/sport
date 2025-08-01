@@ -48,6 +48,12 @@ https://raw.githubusercontent.com/rinnafa5/local/main/tvrisport.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,RTV
 https://warningfm.github.io/v3/live/str/id/590642f0a31efa4.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Rock Action
+https://raw.githubusercontent.com/rinnafa5/local/main/rockact.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Rock Entertainment
+https://raw.githubusercontent.com/rinnafa5/local/main/rockent.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TVN
 https://warningfm.github.io/v3/live/str/Mov/d577c0880b08b2e.m3u8
 
