@@ -39,6 +39,12 @@ https://warningfm.github.io/v3/live/str/id/378a642ff00fed8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,BTV
 https://warningfm.github.io/v3/live/str/id/270f72deeb5843h.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TVRI NASIONAL
+https://raw.githubusercontent.com/rinnafa5/local/main/tvridens.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TVRI SPORT
+https://raw.githubusercontent.com/rinnafa5/local/main/tvrisport.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,RTV
 https://warningfm.github.io/v3/live/str/id/590642f0a31efa4.m3u8
 
@@ -47,6 +53,9 @@ https://warningfm.github.io/v3/live/str/Mov/d577c0880b08b2e.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TVN MOVIES
 https://warningfm.github.io/v3/live/str/Mov/d577c0880b08b2f.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Kplus
+https://raw.githubusercontent.com/rinnafa5/local/main/kplus.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Celestial  Movies
 https://warningfm.github.io/v3/live/str/Mov/1375b51bb1b2c31.m3u8
@@ -63,17 +72,10 @@ https://raw.githubusercontent.com/rinnafa5/local/main/aniplus.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,FIGHT SPORTS
 https://warningfm.github.io/v3/live/str/sprt/d7d981d1df08d72.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TVRI NASIONAL
-https://raw.githubusercontent.com/rinnafa5/local/main/tvridens.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,TVRI SPORT
-https://raw.githubusercontent.com/rinnafa5/local/main/tvrisport.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" , CNN INDONESIA
 https://warningfm.github.io/v3/live/str/id/d12f0b99ed1f070.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,GARUDA TV HD
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,GARUDA TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,Magna
