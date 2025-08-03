@@ -1074,6 +1074,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 #EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" group-title="ASEAN" tvg-logo="",3 HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 
+#EXTINF:-1 tvg-id="Channel3.th" tvg-name="CH3 HD" group-title="ASEAN" tvg-logo="",5 HD
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
+
 EXTINF:-1 tvg-id="Channel8.th" group-title="ASEAN" tvg-logo="",Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 
