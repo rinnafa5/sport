@@ -1061,6 +1061,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ASEAN",AWANI BERITA
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN", TVS+
+https://stream2.smg.my/live/tvsplus_360p878kbs/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="ASEAN",RTM LIVE
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/playlist.m3u8
 
