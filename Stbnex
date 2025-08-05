@@ -314,6 +314,12 @@ https://raw.githubusercontent.com/rinnafa5/local/main/sport5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,VARZESH TV
 https://raw.githubusercontent.com/rinnafa5/local/main/varzesh.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,IRIB 3 TV
+https://raw.githubusercontent.com/rinnafa5/local/main/iribtv3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,PERSIANA SPORT
+https://raw.githubusercontent.com/rinnafa5/local/main/persiana.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", PERSIANA SPORTS
 https://spstr.abntv.live/hls/psstream.m3u8
 
