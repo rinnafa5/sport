@@ -305,8 +305,8 @@ https://raw.githubusercontent.com/quuen2024/delay/refs/heads/queen/sindo_news.m3
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",INEWS
 https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/inews.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",COURT SPORTS
-#https://sports361.github.io/hls/csn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,PRIMA SPORT 1
+https://raw.githubusercontent.com/rinnafa5/local/main/prima1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,5 SPORTS
 https://raw.githubusercontent.com/rinnafa5/local/main/sport5.m3u8
