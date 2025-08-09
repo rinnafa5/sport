@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,SPORTSTAR 2
 https://live-channel1-cdn.visionplus.id/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,bri1
+https://raw.githubusercontent.com/rinnafa5/local/main/bri1.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,MOJI
 https://warningfm.github.io/v3/live/str/id/d4ff175b1e2d419.m3u8
 
