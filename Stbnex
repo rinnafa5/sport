@@ -308,7 +308,7 @@ https://raw.githubusercontent.com/quuen2024/delay/refs/heads/queen/sindo_news.m3
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL1",INEWS
 https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/inews.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,5 SPORTS
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,5 SPORT
 https://raw.githubusercontent.com/rinnafa5/local/main/sport5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,VARZESH TV
@@ -320,17 +320,14 @@ https://raw.githubusercontent.com/rinnafa5/local/main/iribtv3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,PERSIANA SPORT
 https://raw.githubusercontent.com/rinnafa5/local/main/persiana.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", PERSIANA SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", PERSIANA SPORTS HD
 https://spstr.abntv.live/hls/psstream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", PERSIANA SPORTS SD
-https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", SOLH SPORTS
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", SOLH SPORTS
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", PERSIANA SPORTS
-https://stream.sainaertebat.com/hls2/persianas.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", PERSIANA SPORTS SD
+https://stream.sainaertebat.com/hls2/persiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", VARZESH
 https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
