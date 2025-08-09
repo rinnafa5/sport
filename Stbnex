@@ -3,10 +3,6 @@
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,SPORTSTAR 2
 https://live-channel1-cdn.visionplus.id/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,bri1
-https://raw.githubusercontent.com/rinnafa5/local/main/bri1.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,MOJI
 https://warningfm.github.io/v3/live/str/id/d4ff175b1e2d419.m3u8
 
@@ -1520,7 +1516,7 @@ https://gaje0525.edgemaxcdn.org/live/m4l1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS", LIGA BRI++ 7 (AKTIF SAAT LIVE)
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/m4l2/playlist.m3u8
+https://gaje0525.edgemaxcdn.org/live/m5l3/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10",LIVE AFF U23 (SERVER 5)
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
