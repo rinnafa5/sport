@@ -3,12 +3,6 @@
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,SPORTSTAR 2
 https://live-channel1-cdn.visionplus.id/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,INDOSIAR SPORT
-#EXTVLCOPT:http-origin=https://rakuda.infosport.web.id
-#EXTVLCOPT:http-referrer=https://rakuda.infosport.web.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/rinnafa5/local/main/bri1.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL" ,MOJI
 https://warningfm.github.io/v3/live/str/id/d4ff175b1e2d419.m3u8
 
@@ -1479,7 +1473,11 @@ https://d29uu6lcvq8u18.cloudfront.net/out/v1/0fc428527c0b4981900340462bc9e390/in
 #EXTINF:-1 group-title="EVENT", Concacaf 3
 https://d2cozakhtdw466.cloudfront.net/out/v1/0310eeeafd9a491796b23aec39fad1c4/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="LIVE SPORTS" ,INDOSIAR
+#EXTVLCOPT:http-origin=https://rakuda.infosport.web.id
+#EXTVLCOPT:http-referrer=https://rakuda.infosport.web.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/rinnafa5/local/main/bri1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vebotv.app/leagues/badminton.png" group-title="LIVE SPORTS", LIVE ONLY (AKTIF SAAT LIVE)
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
@@ -1492,6 +1490,7 @@ https://hotlivezz179026907.akainu.xyz/bD-QEQ5sRwzT3fAtTo4rhw/Fv2lucGIbhPi2caWYvF
 https://hotlivezz179026907.akainu.xyz/ruEu1TlYhEFOR-NZT-Is2g/Fv2lucGIbhPi2caWYvF5Lg/1746699338821/live/may25/chunklist.m3u8
 https://hotlivezz179026907.akainu.xyz/4AO1Yn8D4JwNcdU-191-5w/Fv2lucGIbhPi2caWYvF5Lg/1746699338821/live/may27/chunklist.m3u8
 https://hotlivezz179026907.akainu.xyz/KOiwcyra56H3iVq_mlM-Dw/Fv2lucGIbhPi2caWYvF5Lg/1748426789328/live/may241/chunklist.m3u8
+
 
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS",  BOLA 1 (AKTIF SAAT LIVE)
