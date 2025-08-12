@@ -323,6 +323,10 @@ https://raw.githubusercontent.com/rinnafa5/local/main/persiana.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", PERSIANA SPORTS HD
 https://spstr.abntv.live/hls/psstream.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",SOLH SPORT
+https://wo.cma.footballii.ir/hls2/solh.m3u8
+
+
 EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", SOLH SPORTS
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
@@ -412,7 +416,6 @@ https://wo.cma.footballii.ir/hls2/ssc1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Tv3
 https://wo.cma.footballii.ir/hls2/tv3.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT",4 Sports
 https://hls.pokertvfa.live/hls/stream.m3u8
