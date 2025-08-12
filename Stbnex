@@ -1491,6 +1491,14 @@ https://d2cozakhtdw466.cloudfront.net/out/v1/0310eeeafd9a491796b23aec39fad1c4/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/rinnafa5/local/main/bri1.m3u8
 
+#EXTINF:-1 ,Piala Kemerdekaan
+#EXTINF:-1 group-title="LIVE SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU0t8L4vzg6TIuZP8j5ZWDcQ3I3qOcJBgq4owNG_LWEne8MR35s0Som07d&s=10"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://red.openwindows038.workers.dev/play.mpd?id=19367&type=drm
+https://red.openwindows038.workers.dev/play.mpd?id=19367&type=dash
+
 #EXTINF:-1 tvg-logo="https://static.vebotv.app/leagues/badminton.png" group-title="LIVE SPORTS", LIVE ONLY (AKTIF SAAT LIVE)
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
