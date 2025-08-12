@@ -326,6 +326,15 @@ https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",SOLH SPORT
 https://raw.githubusercontent.com/rinnafa5/local/main/solh.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",FUTBOL TJ1
+https://raw.githubusercontent.com/rinnafa5/local/main/tj1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",FUTBOL TJ2
+https://raw.githubusercontent.com/rinnafa5/local/main/tj2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",QAZSPORT
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+
 EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", SOLH SPORTS
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
