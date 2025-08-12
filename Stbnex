@@ -1473,11 +1473,18 @@ https://d29uu6lcvq8u18.cloudfront.net/out/v1/0fc428527c0b4981900340462bc9e390/in
 #EXTINF:-1 group-title="EVENT", Concacaf 3
 https://d2cozakhtdw466.cloudfront.net/out/v1/0310eeeafd9a491796b23aec39fad1c4/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE SPORTS" ,INDOSIAR
+#EXTINF:-1 tvg-logo="" group-title="LIVE SPORTS" , INDOSIAR
 #EXTVLCOPT:http-origin=https://rakuda.infosport.web.id
 #EXTVLCOPT:http-referrer=https://rakuda.infosport.web.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/rinnafa5/local/main/bri1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE SPORTS" , SCTV
+#EXTVLCOPT:http-origin=https://rakuda.infosport.web.id
+#EXTVLCOPT:http-referrer=https://rakuda.infosport.web.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/rinnafa5/local/main/bri2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.vebotv.app/leagues/badminton.png" group-title="LIVE SPORTS", LIVE ONLY (AKTIF SAAT LIVE)
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
