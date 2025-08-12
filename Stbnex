@@ -1492,7 +1492,7 @@ https://d2cozakhtdw466.cloudfront.net/out/v1/0310eeeafd9a491796b23aec39fad1c4/in
 https://raw.githubusercontent.com/rinnafa5/local/main/bri1.m3u8
 
 #EXTINF:-1 ,Piala Kemerdekaan
-#EXTINF:-1 group-title="LIVE SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU0t8L4vzg6TIuZP8j5ZWDcQ3I3qOcJBgq4owNG_LWEne8MR35s0Som07d&s=10"
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU0t8L4vzg6TIuZP8j5ZWDcQ3I3qOcJBgq4owNG_LWEne8MR35s0Som07d&s=10"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
