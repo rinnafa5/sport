@@ -442,6 +442,9 @@ https://wo.cma.footballii.ir/hls2/ssc1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Tv3
 https://wo.cma.footballii.ir/hls2/tv3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", PERSIANA ays
+https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT",4 Sports
 https://hls.pokertvfa.live/hls/stream.m3u8
@@ -590,6 +593,14 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",TV3 AUTO
 https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY", PERSIANA cma
+https://wo.cma.footballii.ir/hls2/persiana.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",VARZESH HD
+https://wo.cma.footballii.ir/hls2/varzeshtv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",IRIB TV3 HD
+https://wo.cma.footballii.ir/hls2/tv3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",BEIN SPORTS 1
 https://wo.cma.footballii.ir/hls2/b1.m3u8
@@ -606,25 +617,13 @@ https://wo.cma.footballii.ir/hls2/ssc1.m3u8
 #EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-sport.png" group-title="TIMNASDAY", PERSIANA stm
 https://stream.sainaertebat.com/hls2/persiana.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY", PERSIANA cma
-https://wo.cma.footballii.ir/hls2/persiana.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", PERSIANA ays
-https://ayassport.776740.ir.cdn.ir/hls2/persiana.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", IRIB VARZESH SD
 https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TIMNASDAY", IRIB TV3 SD
 https://stream.sainaertebat.com/hls2/tv3test.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",VARZESH HD
-https://wo.cma.footballii.ir/hls2/varzeshtv.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",IRIB TV3 HD
-https://wo.cma.footballii.ir/hls2/tv3.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Bein Sports 1
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Bein Sports 1 balance
 https://balance.footballii.ir/hls2/b1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Bein Sports 2
@@ -1068,36 +1067,6 @@ http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="ASEAN",NATION TV 
 http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png" group-title="LATIN",PERSIANA SPORTS
-https://spstr.abntv.live/hls/psstream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LATIN",VARZESH
-https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LATIN",IRIB TV3 
-https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="LATIN",PERSIANA
-https://edge06.776740.ir.cdn.ir/hls2/persiana.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LATIN",IRIB TV3
-https://edge06.776740.ir.cdn.ir/hls2/tv3test.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LATIN",VARZESH
-https://edge06.776740.ir.cdn.ir/hls2/varzeshtest.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LATIN",SSC 1
-https://edge06.776740.ir.cdn.ir/hls2/ssc1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LATIN",BEIN 1
-https://edge06.776740.ir.cdn.ir/hls2/bein1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LATIN",BEIN 2
-https://edge06.776740.ir.cdn.ir/hls2/bein2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LATIN", SPORTS 5 ISR
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlistMain_1_.m3u8
 
 
 #EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="" group-title="LATIN",Americana peru
