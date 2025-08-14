@@ -339,6 +339,23 @@ https://raw.githubusercontent.com/rinnafa5/local/main/tj2.m3u8
 EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", SOLH SPORTS
 https://ayassport.776740.ir.cdn.ir/hls2/solhtv.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",PERSIANA
+https://stream.live12.ir/hls2/persiana.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",SOLH
+https://stream.live12.ir/hls2/solhtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",VARZESH
+https://stream.live12.ir/hls2/varzeshtest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",IRIB TV3
+https://stream.live12.ir/hls2/tv3test.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",SSC1
+https://stream.live12.ir/hls2/ssc1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",BEIN1
+https://stream.live12.ir/hls2/bein1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",BEIN2
+https://stream.live12.ir/hls2/bein2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",BEIN3
+https://stream.live12.ir/hls2/bein3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", PERSIANA SPORTS SD
 https://stream.sainaertebat.com/hls2/persiana.m3u8
 
