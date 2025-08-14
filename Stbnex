@@ -479,14 +479,19 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",PERSIANA
 https://stream.live12.ir/hls2/persiana.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",SOLH
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",SOLH SPORTS
 https://stream.live12.ir/hls2/solhtv.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",VARZESH
 https://stream.live12.ir/hls2/varzeshtest.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",IRIB TV3
 https://stream.live12.ir/hls2/tv3test.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",SSC1
 https://stream.live12.ir/hls2/ssc1.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",BEIN1
 https://stream.live12.ir/hls2/bein1.m3u8
 
