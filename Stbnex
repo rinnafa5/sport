@@ -334,6 +334,9 @@ https://raw.githubusercontent.com/rinnafa5/local/main/solh.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",SSC1
 https://raw.githubusercontent.com/rinnafa5/local/main/ssc1.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Turkmen sports
+https://alpha.tv.online.tm/hls/ch004.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",FUTBOL TJ1
 https://raw.githubusercontent.com/rinnafa5/local/main/tj1.m3u8
@@ -343,6 +346,13 @@ https://raw.githubusercontent.com/rinnafa5/local/main/tj2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,BEIN SPORTS 1
 https://wo.cma.footballii.ir/hls2/b1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT", SoloCalcio
+https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT", Sport Italia 
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VVk2VwR/iribtv3.png" group-title="TELE SPORT", IRIB TV3 Auto
 https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
@@ -366,11 +376,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT", SoloCalcio
-https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT", Sport Italia 
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="TELE SPORT", TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
@@ -449,8 +454,6 @@ https://jmp2.uk/sam-GB26000118T.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Turkmen 1
 https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Turkmen 2
-https://alpha.tv.online.tm/hls/ch004.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Dunia Sinema
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
