@@ -1445,3 +1445,64 @@ https://gaje0525.edgemaxcdn.org/live/tigersd1/playlist.m3u8
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE BOLA 6 (THANOS)
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://gaje0525.edgemaxcdn.org/live/thanossd1/playlist.m3u8
+
+#EXTINF:-1 group-title="LIGASUPER" tvg-logo="", BRI 1
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live1&type=m3u8
+
+#EXTINF:-1 group-title="LIGASUPER" tvg-logo="", BRI 2
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live2&type=m3u8
+
+#EXTINF:-1 group-title="LIGASUPER" tvg-logo="", BRI 3
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live3&type=m3u8
+
+#EXTINF:-1 group-title="LIGASUPER" tvg-logo="", BRI 4
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
+
+#EXTINF:-1 group-title="LIGASUPER" tvg-logo="", BRI 5
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live5&type=m3u8
+
+#EXTINF:-1 group-title="LIGASUPER" tvg-logo="", BRI 6
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live6&type=m3u8
+
+#EXTINF:-1 group-title="LIGASUPER" tvg-logo="", BRI 7
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live7&type=m3u8
+
+#EXTINF:-1 group-title="LIGASUPER" tvg-logo="", BRI 8
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live8&type=m3u8
+
+#EXTINF:-1 group-title="LIGASUPER" tvg-logo="", BRI 9
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live9&type=m3u8
+
+#EXTINF:-1 group-title="LIGASUPER" tvg-logo="", BRI 10
+#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=live10&type=m3u8
+
