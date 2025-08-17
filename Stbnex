@@ -313,12 +313,6 @@ https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/inews.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,5 SPORT
 https://raw.githubusercontent.com/rinnafa5/local/main/sport5.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,SPORTSTAR 2
-https://live-channel1-cdn.visionplus.id/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,SOCCER CHANNEL
-https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,VARZESH TV
 https://raw.githubusercontent.com/rinnafa5/local/main/varzesh.m3u8
 
@@ -482,12 +476,17 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",TR SPORT
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TELE SPORT", Sport Itala
+#EXTINF:-1 group-title="TELE SPORT", Sport Italia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 
 #EXTINF:-1 group-title="TELE SPORT", Sport Italia Live
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY" ,SPORTSTAR 2
+https://live-channel1-cdn.visionplus.id/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY" ,SOCCER CHANNEL
+https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",PERSIANA
 https://stream.live12.ir/hls2/persiana.m3u8
