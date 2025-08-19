@@ -1015,8 +1015,10 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",KUWAIT SPORTS 2
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",AD 1
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Abu Dhabi 1
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Abu Dhabi 2
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",Sharjah
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
