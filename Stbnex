@@ -347,6 +347,10 @@ https://raw.githubusercontent.com/rinnafa5/local/main/tj2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,BEIN SPORTS 1
 https://wo.cma.footballii.ir/hls2/b1.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,BEIN EXTRA
+https://raw.githubusercontent.com/rinnafa5/local/main/beinx.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT", SoloCalcio
 https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
 
