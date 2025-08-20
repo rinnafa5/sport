@@ -337,6 +337,10 @@ https://raw.githubusercontent.com/rinnafa5/local/main/ssc1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Turkmen sports
 https://alpha.tv.online.tm/hls/ch004.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,TURKMEN SPORTS HD
+https://raw.githubusercontent.com/rinnafa5/local/main/turkmen.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",FUTBOL TJ1
 https://raw.githubusercontent.com/rinnafa5/local/main/tj1.m3u8
