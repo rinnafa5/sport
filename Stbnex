@@ -1395,7 +1395,21 @@ https://hotlivezz179026907.akainu.xyz/ruEu1TlYhEFOR-NZT-Is2g/Fv2lucGIbhPi2caWYvF
 https://hotlivezz179026907.akainu.xyz/4AO1Yn8D4JwNcdU-191-5w/Fv2lucGIbhPi2caWYvF5Lg/1746699338821/live/may27/chunklist.m3u8
 https://hotlivezz179026907.akainu.xyz/KOiwcyra56H3iVq_mlM-Dw/Fv2lucGIbhPi2caWYvF5Lg/1748426789328/live/may241/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE BOLA 1 (KEN)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/kensd1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE BOLA 2 (LARUE)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/laruesd1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE BOLA 3 (HUDA)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/hudasd1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE BOLA 4 (BECK)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/becksd1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="LIVE SPORTS",  BOLA 1 (AKTIF SAAT LIVE)
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -1471,21 +1485,7 @@ https://gaje0525.edgemaxcdn.org/live/m4l8/playlist.m3u8
 #########https://hotlivezz179026907.akainu.xyz/-kGjIn3bMa1qZLkv-zp5lQ/Fv2lucGIbhPi2caWYvF5Lg/1752593959314/live/may211/chunklist.m3u8
 https://hotlivezz179602324.akainu.xyz/OtZZYo1ftmNgC2ptMmh9Zg/Fv2lucGIbhPi2caWYvF5Lg/1752604847232/live/caSD/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="LIVE SPORTS",LIVE BOLA 1 (KEN)
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/kensd1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="LIVE SPORTS",LIVE BOLA 2 (LARUE)
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/laruesd1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="LIVE SPORTS",LIVE BOLA 3 (HUDA)
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/hudasd1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="LIVE SPORTS",LIVE BOLA 4 (BECK)
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/becksd1/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="LIVE SPORTS",  BOLA 1 (AKTIF SAAT LIVE)
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://gaje0525.edgemaxcdn.org/live/m1l1/playlist.m3u8
