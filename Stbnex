@@ -1331,9 +1331,10 @@ https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
 https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947" group-title="EVENT,Prima Sport 4 
+#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947" group-title="EVENT",Prima Sport 4 
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="EVENT",Caze brazil
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
