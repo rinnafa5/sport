@@ -381,6 +381,30 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT",BEIN SPORT EXTRA 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT", BEIN EXTRA US
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",PGB1
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",PGB2
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",BEIN 1 TH
+https://www.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",BEIN 2 TH
+https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",BEIN 3 TH
+https://www.livedoomovies.com:4431/02_epl3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",BEIN 4 TH
+https://www.livedoomovies.com:4431/02_epl4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",PPTV HD
+https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",5 BELARUS
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
