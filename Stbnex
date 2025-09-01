@@ -334,12 +334,6 @@ https://raw.githubusercontent.com/rinnafa5/local/main/solh.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-1-sa.png" group-title="TELE SPORT",SSC 1
 https://raw.githubusercontent.com/rinnafa5/local/main/ssc1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,CG SAT
-https://raw.githubusercontent.com/rinnafa5/local/main/cgst.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Turkmen sports
-https://alpha.tv.online.tm/hls/ch004.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,TURKMEN SPORTS HD
 https://raw.githubusercontent.com/rinnafa5/local/main/turkmen.m3u8
 
@@ -383,8 +377,6 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT",VARZESH Auto
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",5 Sport 
-https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT",BEIN SPORT EXTRA 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
@@ -451,8 +443,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",SPOTV ASIA
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8?c
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",SPORTDIGITAL FUSSBALL
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/186176.ts
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",TV ASAHI
 http://vthanh.utako.moe/TV_Asahi/index.m3u8
@@ -481,8 +471,6 @@ https://jmp2.uk/sam-USBD420002446.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",DFB Play
 https://jmp2.uk/sam-GB26000118T.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Turkmen 1
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Dunia Sinema
