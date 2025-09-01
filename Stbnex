@@ -349,6 +349,12 @@ https://raw.githubusercontent.com/rinnafa5/local/main/tj2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,BEIN SPORTS 1
 https://wo.cma.footballii.ir/hls2/b1.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",BEIN SPORTS 2
+https://wo.cma.footballii.ir/hls2/b2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",BEIN SPORTS 3
+https://wo.cma.footballii.ir/hls2/b3.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,MBC MASR
 https://raw.githubusercontent.com/rinnafa5/local/main/masr.m3u8
 
