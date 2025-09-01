@@ -310,28 +310,28 @@ https://raw.githubusercontent.com/quuen2024/delay/refs/heads/queen/sindo_news.m3
 https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/inews.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,5 SPORT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/5-sport-il.png" group-title="TELE SPORT" ,5 SPORT
 https://raw.githubusercontent.com/rinnafa5/local/main/sport5.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,VARZESH TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT" ,VARZESH TV
 https://raw.githubusercontent.com/rinnafa5/local/main/varzesh.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,IRIB 3 TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VVk2VwR/iribtv3.png" group-title="TELE SPORT" ,IRIB 3 TV
 https://raw.githubusercontent.com/rinnafa5/local/main/iribtv3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT" ,PERSIANA SPORTS
+#EXTINF:-1 tvg-logo="https://persianasports.com/images/live-channel-icon.jpg" group-title="TELE SPORT" ,PERSIANA SPORTS
 https://raw.githubusercontent.com/rinnafa5/local/main/persiana.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT", PERSIANA SPORTS HD
+#EXTINF:-1 tvg-logo="https://persianasports.com/images/live-channel-icon.jpg" group-title="TELE SPORT",PERSIANA SPORTS HD
 https://spstr.abntv.live/hls/psstream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RTVXW2gj/Screenshot-2025-05-18-231648.png" group-title="TELE SPORT",4 SPORTS HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/4-sports-fr.png" group-title="TELE SPORT",4 SPORTS HD
 https://pepsi.abntv.live/hls/4spstream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",SOLH SPORTS
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/solhsports-af.png" group-title="TELE SPORT",SOLH SPORTS
 https://raw.githubusercontent.com/rinnafa5/local/main/solh.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELE SPORT",SSC1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-1-sa.png" group-title="TELE SPORT",SSC 1
 https://raw.githubusercontent.com/rinnafa5/local/main/ssc1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",Turkmen sports
@@ -379,9 +379,6 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT",VARZESH Auto
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5nm4Gt/irbvarzesh.png" group-title="TELE SPORT",4 Sports
-https://hls.pokertvfa.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELE SPORT",5 Sport 
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
@@ -1243,6 +1240,9 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA
 https://euhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA+
+https://hls.pokertvfa.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="IRANTV",PERSIANA One
 https://onehls.persiana.live/hls/stream.m3u8
