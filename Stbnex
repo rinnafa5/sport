@@ -655,7 +655,11 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tv111.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA",Tnl
 https://edge3-moblive.yuppcdn.net/transsd/smil:tnl12.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INDIA", Vasantam
+
+#EXTINF:-1 tvg-logo="" group-title="INDIA",nflix
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDIA",vasantam
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:vatv07.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="INDIA",Derana
