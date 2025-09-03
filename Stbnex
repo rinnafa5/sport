@@ -1064,24 +1064,6 @@ https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",AL KASS 6
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",AL KASS 1
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1muytrdc/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",AL KASS 2
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",AL KASS 3
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",AL KASS 4
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4azq/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",AL KASS 5
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTY",AL KASS 6
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzay/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",EPL
 https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
@@ -1343,6 +1325,11 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/fubo-sports23_m.png" group-title="EVENT" ch-number="" type="channel",FUBO SPORTS 3
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-538/stream.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="EVENT",Prima Sport 1 
