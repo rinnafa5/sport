@@ -649,6 +649,39 @@ https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SONY TEN", KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="INDIA",TV1
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tv111.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Tnl
+https://edge3-moblive.yuppcdn.net/transsd/smil:tnl12.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDIA", Vasantam
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:vatv07.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Derana
+https://edge3-moblive.yuppcdn.net/transhd2/smil:detv04.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDIA",star tamil
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Sirasa
+https://edge2-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Shakti
+https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Nethra
+https://edge3-moblive.yuppcdn.net/transsd/smil:chii02.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Itn
+https://edge4-moblive.yuppcdn.net/transsd/smil:itn43.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Charana
+https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Eye tv
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:nettv15.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="INDIA",Stars select 1
 http://103.120.172.74:1030
 
