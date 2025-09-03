@@ -1064,6 +1064,24 @@ https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",AL KASS 6
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",AL KASS 1
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1muytrdc/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",AL KASS 2
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",AL KASS 3
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",AL KASS 4
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4azq/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",AL KASS 5
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",AL KASS 6
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzay/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",EPL
 https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
