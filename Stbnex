@@ -1090,6 +1090,30 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTY",Dubai Sports 3 
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",tv3 
+https://cdn.live.easybroadcast.io/ts_corp/73_arryadia-tnt_zcmwjdc/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",tv3 int
+https://cdn.live.easybroadcast.io/ts_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",tv1
+https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",tv1 int
+https://cdn.live.easybroadcast.io/ts_corp/73_laayoune_pgagr52/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",tv4
+https://cdn.live.easybroadcast.io/ts_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Tv5
+https://cdn.live.easybroadcast.io/ts_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Tv6
+https://cdn.live.easybroadcast.io/ts_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTY",Tv8
+https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTY", AL KASS 3
 https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 
